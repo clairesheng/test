@@ -21,21 +21,19 @@ We take care of our team. You'll be provided with a MacBook, an Ergonomic chair 
 We want to be better at welcoming our new Wiredcraft Colleagues, because we are awesome and they are awesome.
 Here are our ideas of what should be included in the on-boarding tote. 
 
-1. The tote with a cool design like TOA
+1. A tote bag with a cool design
 2. Moleskine embossed with WCL 
 3. WCL pens
-4. Lanyards
-5. Cup/Mug
-6. Metro Card with 200RMB
-7. T-shirt/ hoodie
-8. Chinese adapter (for foreigners)
-9. Face mask for air pollution (hehe)
-10. Macbook air if they want (ask what software they want and have it downloaded and ready for them when they arrive
-11. Discount card/gift card to ikea 
-12. Maybe some sort of tech gadget that might be cool to have 
-13. Stickers
+4. Customized mug (please suggest how to customize: picture, name, cartoon etc.)
+5. Metro Card with 200RMB
+6. T-shirt/ hoodie
+7. Face mask for air pollution (hehe)
+8. Macbook air
+9. Discount card/gift card (specify which one/what kind you'd recommend)
+10. Tech gadget (please specify which one you'd recommend)
+11. Wiredcraft stickers
 
-Can you give the budget, and why you choose the vendors for these stuff or add some things if you think will be interesting? But if you think some of the things are not necessary or cost too much, you don't have to take into account into the budget, but need to tell why you think it is unnecessary.
+Please evaluate the items listed above by giving an expected budget for the items, which specific vendors you'd choose for these items, and provide more suggestions for items that ask for your recommendation. However, if you think some of the things are unnecessary or too costly, please make note of why, and do not include them in your budget.
 
 
 
