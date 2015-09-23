@@ -2,7 +2,7 @@
 
 **1. Translate part of JD (Operations Assistant)**
 
-Here is part of the job description for Operations Assistant position you are applying for, translate the following into Chinese: 
+Here is part of the job description for Operations Assistant position you are applying for, **translate the following into Chinese**:
 
 We’re not only nice people, we do very interesting work:
 
@@ -33,7 +33,7 @@ Here are our ideas of what should be included in the on-boarding tote.
 12. Tech gadget (please specify which one you'd recommend)
 13. Stickers
 
-Please evaluate the items listed above by giving an expected budget for the items, which specific vendors you'd choose for these items, and provide more suggestions for items that ask for your recommendation. However, if you think some of the things are unnecessary or too costly, please make note of why, and do not include them in your budget.
+Please evaluate the items listed above by giving an **expected budget** for the items, which **specific vendors** you'd choose for these items, a **timeline** and provide more **suggestions for items** that ask for your recommendation. However, if you think some of the things are unnecessary or too costly, please make note of why, and do not include them in your budget. Make sure to format this in a clear and understandable way.
 
 
 
