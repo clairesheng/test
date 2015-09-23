@@ -14,7 +14,7 @@ We’re transparent about virtually anything and let people assume the role they
 
 We’re distributed, with folks in Berlin, Shanghai, and the US. You’ll get a chance to visit the main office in China.
 
-We take care of our team. You'll be provided with a MacBook, an Ergonomic chair or a fitness ball (whichever floats your boat), flexible working hours (and no overtime), paid personal leave, snacks, foosball competitions, WiiU play time, weekly team lunches, and team-building events.`
+We take care of our team. You'll be provided with a MacBook, an Ergonomic chair or a fitness ball (whichever floats your boat), flexible working hours (and no overtime), paid personal leave, snacks, foosball competitions, WiiU play time, weekly team lunches, and team-building events.
 
 **2. Budget for New Employee Tote Bag**
 
@@ -32,8 +32,10 @@ Here are our ideas of what should be included in the on-boarding tote.
 9. Face mask for air pollution (hehe)
 10. Macbook air if they want (ask what software they want and have it downloaded and ready for them when they arrive
 11. Discount card/gift card to ikea 
-12. Maybe some sort of tech gadget that might be cool to have (sorry we are a little dumb with this we will ask the developers)
+12. Maybe some sort of tech gadget that might be cool to have 
 13. Stickers
 
-Can you give the budget for these stuff or add some things you think will be interesting? But if you think some of the things are not necessary or cost too much, you don't have to take into account into the budget, but need to tell why you think it is unnecessary.
+Can you give the budget, and why you choose the vendors for these stuff or add some things if you think will be interesting? But if you think some of the things are not necessary or cost too much, you don't have to take into account into the budget, but need to tell why you think it is unnecessary.
+
+
 
